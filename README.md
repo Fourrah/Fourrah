@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-## ✏Tech Spec✏
+ ✏Tech Spec✏
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=black)
@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fourrah&layout=compact&theme=cobalt)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FFourrah&count_bg=%23CC6DF0&title_bg=%23555555&icon=&icon_color=%23BA25AE&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
